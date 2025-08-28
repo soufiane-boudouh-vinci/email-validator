@@ -5,7 +5,7 @@
 - **Email (Vinci)** : soufiane.boudouh@student.vinci.be
 
 ## URL du projet
-- **GitHub** : <REPO_URL>
+- **GitHub** : <https://github.com/soufiane-boudouh-vinci/email-validator>
 
 ## Objectif
 - Mettre en place une **CI GitHub Actions** (déclenchée sur **PR → `main`** et sur push `main`).
